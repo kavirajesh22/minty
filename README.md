@@ -1,7 +1,6 @@
-#🌿 Minty
-##is a personal finance web application that enables users to manage their budgets and grows a plant in response! In this small version of our soon-to-be mobile app, users can sign in with their email, add categories with associated amounts, and persist their data using a PostgreSQL database. Check out our devpost for what we want our resulting app to function as.
+Minty is a personal finance web application that enables users to manage their budgets and grows a plant in response! In this small version of our soon-to-be mobile app, users can sign in with their email, add categories with associated amounts, and persist their data using a PostgreSQL database. Check out our devpost for what we want our resulting app to function as.
 
-##📦 Features
+📦Features
 User Authentication: Sign in using your email address.
 
 Category Management: Add, view, and save spending categories with specified amounts.
@@ -10,13 +9,13 @@ Data Persistence: Categories are stored in a PostgreSQL database for future retr
 
 Responsive Design: Clean and intuitive user interface built with React.
 
-##🚀 Getting Started
+🚀 Getting Started
 Prerequisites
 Node.js (v14 or higher)
 PostgreSQL (v12 or higher)
 
 
-##🛠️ Technologies Used
+🛠️ Technologies Used
 Frontend:
 React
 TypeScript
